@@ -1,0 +1,235 @@
+{{ 'section-call-to-action.css' | asset_url | stylesheet_tag }}
+
+{% style %}
+
+{% render 'section-style' %}
+  
+#shopify-section-{{ section.id }}{
+  padding-top: {{ section.settings.padding_top }}px;
+  padding-bottom: {{ section.settings.padding_bottom }}px;
+}
+.cta-entoure-image {
+  background-size: cover;
+  background-position: center;
+  min-height: 200px;
+}
+{% endstyle %}
+
+{% for block in section.blocks %}
+  {% case block.type %}
+    {% when 'cta' %}
+      {% capture call_to_action %}
+        <div class="cta-content-wrapper content-container color-{{ block.settings.color_scheme }}" id="{{ block.settings.identifiant }}"> 
+            <div class="cta-content-container">
+                {% if block.settings.subtitle != blank %}
+                    <div class="subtitle">{{ block.settings.subtitle }}</div> 
+                {% endif %}
+                {% if block.settings.title != blank %}
+                    <div class="h3"> {{ block.settings.title }} </div>
+                {% endif %}
+                {% if block.settings.content != blank %}
+                    {{ block.settings.content }}
+                {% endif %}
+                {% if block.settings.button_url != blank %}
+                    <a class="cta-button button button--primary" href="{{ block.settings.button_url }}">
+                      {{ block.settings.button_title }}
+                    </a>
+                {% endif %}
+            </div> 
+            {% if block.settings.image != blank %}
+                <div class="cta-entoure-image flex" style="background-image: url({{ block.settings.image | image_url }});min-width:{{ block.settings.image-size }}%">
+                </div>
+            {% endif %}
+        </div> 
+      {% endcapture %}
+      <script> 
+          window.addEventListener('load', () => {
+            let cta = `{{ call_to_action }}`;
+            let allParagraphs = document.querySelectorAll('p')
+            allParagraphs.forEach((e) => { 
+                if(e.innerHTML.includes('call-to-action-{{ block.settings.identifiant }}')) {
+                e.innerHTML = `{{ call_to_action }}`
+              } 
+            })
+          })
+      </script>
+  {% endcase %}
+{% endfor %}
+
+
+{% schema %}
+{
+  "name": "Appel a l'action",
+  "settings": [
+    {
+      "type": "paragraph",
+      "content": "ℹ️ Découvrez le tutoriel complet sur l'usage des Appels à l'action [En savoir plus](https://the-deployer.notion.site/Comment-ajouter-un-appel-l-action-l-int-rieur-d-un-article-0056a5ddff844776834e404db5696ccd?pvs=4)"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "cta",
+      "name": "Appel a l'action",
+      "settings": [
+        {
+            "type": "text",
+            "id": "identifiant",
+            "label": "Identifiant de l'appel a l'action",
+            "default": "id"
+        },
+        {
+          "type": "paragraph",
+          "content": "L'appel du cta dans les blog se fait comme suit: call-to-action-id"
+        },
+        {
+          "type": "header",
+          "content": "Contenu du Call to Action"
+        },
+        {
+          "type": "select",
+          "id": "color_scheme",
+          "options": [
+            {
+              "value": "accent-1",
+              "label": "t:sections.all.colors.accent_1.label"
+            },
+            {
+              "value": "accent-2",
+              "label": "t:sections.all.colors.accent_2.label"
+            },
+            {
+              "value": "accent-3",
+              "label": "Accent 3"
+            },
+            {
+              "value": "background-1",
+              "label": "t:sections.all.colors.background_1.label"
+            },
+            {
+              "value": "background-2",
+              "label": "t:sections.all.colors.background_2.label"
+            },
+            {
+              "value": "background-3",
+              "label": "Arrière-plan 3"
+            },
+            {
+              "value": "inverse",
+              "label": "t:sections.all.colors.inverse.label"
+            }
+          ],
+          "default": "background-1",
+          "label": "t:sections.all.colors.label",
+          "info": "Rechargez la page afin de pré-visualiser vos changements"
+        },
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image"
+        },
+        {
+          "type": "select",
+          "id": "image-size",
+          "options": [
+            {
+              "value": "25",
+              "label": "Un quart"
+            },
+            {
+              "value": "33",
+              "label": "Un tiers"
+            },
+            {
+              "value": "50",
+              "label": "Moitié"
+            }
+          ],
+          "default": "33",
+          "label": "Taille de l'image sur Ordinateur"
+        },
+        {
+          "type": "inline_richtext",
+          "id": "subtitle",
+          "label": "Présentation"
+        },
+        {
+          "type": "inline_richtext",
+          "id": "title",
+          "label": "Titre",
+          "default": "Produits en vedettes"
+        },
+        {
+          "type": "richtext",
+          "id": "content",
+          "label": "Contenu",
+          "default": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>"
+        },
+        {
+          "type": "header",
+          "content": "Boutton Call to Action"
+        },
+        {
+          "type": "url",
+          "id": "button_url",
+          "label": "Lien du boutton"
+        },
+        {
+          "type": "inline_richtext",
+          "id": "button_title",
+          "label": "Titre du bouton",
+          "default": "Découvrir"
+        },
+        {
+          "type": "header",
+          "content": "t:sections.all.padding.section_padding_heading"
+        },
+        {
+          "type": "range",
+          "id": "padding_top",
+          "min": 0,
+          "max": 100,
+          "step": 2,
+          "unit": "px",
+          "label": "Marge du haut",
+          "default": 0
+        },
+        {
+          "type": "range",
+          "id": "padding_bottom",
+          "min": 0,
+          "max": 100,
+          "step": 2,
+          "unit": "px",
+          "label": "Marge du bas",
+          "default": 0
+        },
+        {
+          "type": "header",
+          "content": "Ordinateur"
+        },
+        {
+          "type": "checkbox",
+          "id": "offdesk",
+          "default": false,
+          "label": "Cacher la section"
+        },
+        {
+          "type": "header",
+          "content": "Mobile"
+        },
+        {
+          "type": "checkbox",
+          "id": "offmob",
+          "default": false,
+          "label": "Cacher la section"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Appel a l'action"
+    }
+  ]
+}
+{% endschema %}

@@ -1,0 +1,14 @@
+.colorSwatch {
+  width: 40px;
+  height: 40px;
+  padding: 0 !important;
+}
+
+.product-form__input input[type='radio'] + .colorSwatch {
+  border: 1px solid white;
+}
+
+.product-form__input input[type='radio']:checked + .colorSwatch {
+  border: 2px solid white;
+  box-shadow: 0 0 0 2px #000;
+}
