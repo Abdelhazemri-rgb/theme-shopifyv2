@@ -1,1 +1,73 @@
-{"sections":{"banner":{"type":"main-collection-banner","custom_css":["h1 {font-size: 3rem; text-transform: uppercase;}"],"settings":{"color_scheme":"accent-1","heading_tag":"h1","show_collection_description":true,"show_collection_image":true,"identificateur":"class","offdesk":false,"offmob":false}},"243ae172-d34b-406b-8b50-f9e309701fbb":{"type":"scrolling-text","settings":{"color_scheme":"accent-3","title":"LE 3ème CADRE EST OFFERT","heading_tag":"h2","speed":0,"bordered-text":false,"identificateur":"class","padding_top":8,"padding_bottom":8,"heading_size":18,"offdesk":false,"heading_size_mob":16,"offmob":false}},"product-grid":{"type":"main-collection-product-grid","settings":{"products_per_page":24,"image_ratio":"adapt","show_secondary_image":true,"show_vendor":false,"show_rating":true,"enable_btn_card_product":false,"type_btn_card_product":"enable_quick_add","button_style_secondary":true,"enable_filtering":true,"enable_sorting":true,"identificateur":"class","padding_top":0,"padding_bottom":30,"columns_desktop":4,"filter_type":"horizontal","offdesk":false,"columns_mobile":"2","offmob":false}}},"order":["banner","243ae172-d34b-406b-8b50-f9e309701fbb","product-grid"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "custom_css": [
+        "h1 {font-size: 3rem; text-transform: uppercase;}"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "heading_tag": "h1",
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "identificateur": "class",
+        "offdesk": false,
+        "offmob": false
+      }
+    },
+    "243ae172-d34b-406b-8b50-f9e309701fbb": {
+      "type": "scrolling-text",
+      "settings": {
+        "color_scheme": "accent-3",
+        "title": "LE 3ème CADRE EST OFFERT",
+        "heading_tag": "h2",
+        "speed": 0,
+        "bordered-text": false,
+        "identificateur": "class",
+        "padding_top": 8,
+        "padding_bottom": 8,
+        "heading_size": 18,
+        "offdesk": false,
+        "heading_size_mob": 16,
+        "offmob": false
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 24,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_btn_card_product": false,
+        "type_btn_card_product": "enable_product_page",
+        "button_style_secondary": true,
+        "enable_filtering": true,
+        "enable_sorting": true,
+        "identificateur": "class",
+        "padding_top": 0,
+        "padding_bottom": 30,
+        "columns_desktop": 4,
+        "filter_type": "horizontal",
+        "offdesk": false,
+        "columns_mobile": "2",
+        "offmob": false
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "243ae172-d34b-406b-8b50-f9e309701fbb",
+    "product-grid"
+  ]
+}
