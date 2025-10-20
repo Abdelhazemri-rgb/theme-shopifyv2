@@ -17,7 +17,8 @@
           "settings": {
             "collection": "rap",
             "product": "rassil",
-            "links": "",
+            "links": "shopify://pages/le-rassil",
+            "image": "shopify://shop_images/A72F2D73-75FB-41CC-98B0-65DA379AB19C_e27dbab2-ab2e-4102-b461-cb359e3e852c.jpg",
             "content": "Le Rassil"
           }
         },
@@ -26,7 +27,7 @@
           "settings": {
             "collection": "",
             "product": "",
-            "links": "shopify://pages/utilisation",
+            "links": "shopify://pages/le-rassil",
             "image": "shopify://shop_images/2_3e0afcc0-d49c-47a0-8ae3-524184b04ec3.png",
             "content": "Utilisation"
           }
@@ -36,7 +37,8 @@
           "settings": {
             "collection": "",
             "product": "",
-            "links": "shopify://pages/la-mission",
+            "links": "shopify://pages/🌍-notre-mission",
+            "image": "shopify://shop_images/DSC_3715.jpg",
             "content": "La Mission"
           }
         },
@@ -45,7 +47,8 @@
           "settings": {
             "collection": "",
             "product": "",
-            "links": "",
+            "links": "shopify://pages/faq",
+            "image": "shopify://shop_images/how-often-should-you-use-beard-shampoo_480x480_ec44c639-4992-4659-953d-92cfe2416adc.jpg",
             "content": "FAQ"
           }
         }
