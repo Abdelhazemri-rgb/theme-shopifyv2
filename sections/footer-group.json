@@ -1,1 +1,80 @@
-{"name":"Footer","type":"footer","sections":{"footer":{"type":"footer","blocks":{"429343a9-6926-40c2-b0eb-7ee145cea279":{"type":"text","disabled":true,"settings":{"heading":"Titre","subtext":"<p>Partagez les informations de contact, les détails de la boutique et le contenu de la marque avec vos prospects.<\/p>","offdesk-bloc":false,"offmob-bloc":false}},"33d6d82e-9ba4-495d-841c-1f0205c6ef86":{"type":"link_list","settings":{"heading":"Liens rapides","menu":"main-menu","offdesk-bloc":false,"collapsible_menu":false,"offmob-bloc":false}},"6d52be3d-3b80-4052-b9b0-966e4f47bba3":{"type":"link_list","settings":{"heading":"Bla-Bla-Bla","menu":"footer","offdesk-bloc":false,"collapsible_menu":false,"offmob-bloc":false}},"f908c2d8-0d35-436d-ab54-273d56b66395":{"type":"newsletter","settings":{"newsletter_heading":"La Newsletter c'est ici 👇","newsletter_text":"","newsletter_enable":false,"code_grand_formulaire":"","show_social":true,"offdesk-bloc":false,"offmob-bloc":false}}},"block_order":["429343a9-6926-40c2-b0eb-7ee145cea279","33d6d82e-9ba4-495d-841c-1f0205c6ef86","6d52be3d-3b80-4052-b9b0-966e4f47bba3","f908c2d8-0d35-436d-ab54-273d56b66395"],"settings":{"color_scheme":"inverse","footer_bottom_menu":true,"footer_animation_hover":false,"footer_style_hover":"classic","footer_type_animation":"animation-1","vague":false,"wave":"8","enable_country_selector":false,"enable_language_selector":false,"payment_enable":true,"text-copyright":"💙 Crée avec beaucoup d'amour","show_powered":false,"identificateur":"class","margin_top":0,"padding_top":42,"padding_bottom":30,"offdesk":false,"offmob":false}}},"order":["footer"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "Footer",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "429343a9-6926-40c2-b0eb-7ee145cea279": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "heading": "Titre",
+            "subtext": "<p>Partagez les informations de contact, les détails de la boutique et le contenu de la marque avec vos prospects.</p>",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        },
+        "33d6d82e-9ba4-495d-841c-1f0205c6ef86": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Liens rapides",
+            "menu": "main-menu",
+            "offdesk-bloc": false,
+            "collapsible_menu": false,
+            "offmob-bloc": false
+          }
+        },
+        "f908c2d8-0d35-436d-ab54-273d56b66395": {
+          "type": "newsletter",
+          "settings": {
+            "newsletter_heading": "La Newsletter c'est ici 👇",
+            "newsletter_text": "",
+            "newsletter_enable": false,
+            "code_grand_formulaire": "",
+            "show_social": true,
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        }
+      },
+      "block_order": [
+        "429343a9-6926-40c2-b0eb-7ee145cea279",
+        "33d6d82e-9ba4-495d-841c-1f0205c6ef86",
+        "f908c2d8-0d35-436d-ab54-273d56b66395"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "footer_bottom_menu": true,
+        "footer_animation_hover": false,
+        "footer_style_hover": "classic",
+        "footer_type_animation": "animation-1",
+        "vague": false,
+        "wave": "8",
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": true,
+        "text-copyright": "💙 Crée avec beaucoup d'amour",
+        "show_powered": false,
+        "identificateur": "class",
+        "margin_top": 0,
+        "padding_top": 42,
+        "padding_bottom": 30,
+        "offdesk": false,
+        "offmob": false
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

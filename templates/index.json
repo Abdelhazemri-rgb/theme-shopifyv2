@@ -1,1 +1,516 @@
-{"sections":{"cd2e6554-6726-431b-be4b-a747ad2d2e52":{"type":"collection-navigation","blocks":{"template--19587639640393__cd2e6554-6726-431b-be4b-a747ad2d2e52-collection-1":{"type":"collection","settings":{"collection":"rap","product":"rassil","links":"","content":"Le Rassil"}},"template--19587639640393__cd2e6554-6726-431b-be4b-a747ad2d2e52-collection-2":{"type":"collection","settings":{"collection":"","product":"","links":"shopify:\/\/pages\/utilisation","image":"shopify:\/\/shop_images\/2_3e0afcc0-d49c-47a0-8ae3-524184b04ec3.png","content":"Utilisation"}},"collection_tWTegc":{"type":"collection","settings":{"collection":"","product":"","links":"shopify:\/\/pages\/la-mission","image":"shopify:\/\/shop_images\/5_dce03edb-ce8a-48d4-b3df-adb5cc9ee52e.png","content":"La Mission"}},"collection_HkAr6x":{"type":"collection","settings":{"collection":"","product":"","links":"","image":"shopify:\/\/shop_images\/DSC_3885_1_2592c8fa-49f0-48c8-9ba3-398c6ea35177.jpg","content":"FAQ"}}},"block_order":["template--19587639640393__cd2e6554-6726-431b-be4b-a747ad2d2e52-collection-1","template--19587639640393__cd2e6554-6726-431b-be4b-a747ad2d2e52-collection-2","collection_tWTegc","collection_HkAr6x"],"custom_css":["@media screen and (max-width: 767px) {* {padding-right: 0 !important; }}",".story_circle {margin-bottom: 4px;}"],"settings":{"color_scheme":"background-1","background_style":"primary","title":"","heading_size":"h1","description":"","descriptions_margin":false,"description_style":"body","style":"story","button_style_secondary":true,"identificateur":"class","padding_top":0,"padding_bottom":20,"offdesk":false,"offmob":false}},"collapsible_content_8wMHef":{"type":"collapsible-content","blocks":{"collapsible_row_8tewY3":{"type":"collapsible_row","settings":{"heading":"Encore + de Volume","icon":"lipstick","custom_icon":"","row_content":"<p>Notre Rassil est constitué de ... pour donner à votre barbe un volume jusqu'à 3x supérieur<\/p>","page":"","offdesk-bloc":false,"offmob-bloc":false}},"collapsible_row_LLDMBe":{"type":"collapsible_row","settings":{"heading":"Les Ingrédients","icon":"plant","custom_icon":"","row_content":"<p>Nos produits sont naturelles et sans produits chimiques rajoutés. Confectionné à base de ... depuis le Maroc spécifiquement depuis Casablanca. <a href=\"\/pages\/la-mission\" title=\"Notre histoire\">Vous souhaitez en savoir sur la confection de nos Rassils ?<\/a><\/p>","page":"","offdesk-bloc":false,"offmob-bloc":false}},"collapsible_row_LWQzVQ":{"type":"collapsible_row","settings":{"heading":"Waterproof 72H","icon":"washing","custom_icon":"","row_content":"<p>Nos Rassils sont waterproofs jusq'à 72H d'utilisations. Donc même sous la douche ou à la piscine votre barbe restera aussi belle. <\/p>","page":"","offdesk-bloc":false,"offmob-bloc":false}},"collapsible_row_LJMa8J":{"type":"collapsible_row","settings":{"heading":"Un Vrai Booster","icon":"star","custom_icon":"","row_content":"<p>Contrairement à un simple mascara, Rassil contient des huiles de Ricin et d'Argan ainsi que ... pour booster la pousse et l'épaisseur de votre barbe. Oui rien que ça<\/p>","page":"","offdesk-bloc":false,"offmob-bloc":false}}},"block_order":["collapsible_row_8tewY3","collapsible_row_LLDMBe","collapsible_row_LWQzVQ","collapsible_row_LJMa8J"],"custom_css":["h2 {font-size: 2.8rem; font-weight: 600;}"],"settings":{"color_scheme":"background-1","container_color_scheme":"background-2","caption":"","heading":"C'est quoi un Rassil ?","heading_tag":"h2","heading_size":"h1","heading_alignment":"center","description":"<p>Charnu, épaisse, brillante, volumineuse, élégante, viril, symbolique. Tant d'adjectifs pour décrire une vraie bebard qui sent la testotérone.<\/p>","descriptions_margin":false,"description_style":"body","layout":"none","open_first_collapsible_row":true,"image":"shopify:\/\/shop_images\/DSC_3837_1.jpg","image_ratio":"adapt","identificateur":"class","padding_top":30,"padding_bottom":30,"desktop_layout":"image_first","offdesk":false,"offmob":false}},"image_with_text_ChmJr8":{"type":"image-with-text","blocks":{"heading_7bRUci":{"type":"heading","settings":{"heading":"Stock limité","heading_tag":"h2","heading_size":"h0","offdesk-bloc":false,"offmob-bloc":false}},"text_pLP8Bm":{"type":"text","settings":{"text":"<p>Le Rassil commence à sortir de terre. Pour cette raison, nous limitons nos stocks pour recevoir un maximum d'avis clients pour proposer le meilleur produit accessible sur le marché<br\/><\/p>","text_style":"body","offdesk-bloc":false,"offmob-bloc":false}},"button_LXrJM6":{"type":"button","settings":{"button_label":"DÉCOUVRIR","button_link":"shopify:\/\/products\/rassil","button_style_secondary":false,"offdesk-bloc":false,"offmob-bloc":false}}},"block_order":["heading_7bRUci","text_pLP8Bm","button_LXrJM6"],"settings":{"color_scheme":"accent-2","image":"shopify:\/\/shop_images\/1.png","height":"adapt","content_layout":"no-overlap","identificateur":"class","padding_top":0,"padding_bottom":0,"desktop_image_width":"medium","layout":"image_first","desktop_content_position":"middle","desktop_content_alignment":"left","offdesk":false,"show_padding_content":false,"mobile_content_alignment":"center","mobile_padding":"small","offmob":false}},"custom_content_AkVEDT":{"type":"custom-content","blocks":{"before_fwhtCM":{"type":"before","settings":{"after_image":"shopify:\/\/shop_images\/7.png","before_image":"shopify:\/\/shop_images\/8.png","taille":"custom-w-100","offdesk-bloc":false,"taillemobile":"custom-mw-100","offmob-bloc":false}}},"block_order":["before_fwhtCM"],"settings":{"color_scheme":"background-1","alignment_justify":"center","alignment_align":"center","min_height":0,"full_width":false,"identificateur":"class","padding_top":50,"padding_bottom":50,"offdesk":false,"offmob":false}},"3cf12153-d73d-46af-9101-d9f272552a3e":{"type":"image-with-text","blocks":{"3a9d0c10-b7af-435c-b903-e967d1858b43":{"type":"heading","settings":{"heading":"Devenir Revendeur","heading_tag":"h2","heading_size":"h1","offdesk-bloc":false,"offmob-bloc":false}},"19aa63cd-5334-4660-9a25-ec6e4b75a0a3":{"type":"text","settings":{"text":"<p>Vous souhaitez vendre ou acheter en gros les produits Messyka ? Aucun problème rendez-vous juste en dessous<\/p>","text_style":"body","offdesk-bloc":false,"offmob-bloc":false}},"810de1b4-7b41-4150-b1b7-4de55e4ffc30":{"type":"button","settings":{"button_label":"DEVENIR REVENDEUR","button_link":"shopify:\/\/pages\/contact","button_style_secondary":false,"offdesk-bloc":false,"offmob-bloc":false}}},"block_order":["3a9d0c10-b7af-435c-b903-e967d1858b43","19aa63cd-5334-4660-9a25-ec6e4b75a0a3","810de1b4-7b41-4150-b1b7-4de55e4ffc30"],"custom_css":[".button {background-color: whitesmoke;}","h2 {font-size: 2.6rem; font-weight: 600;}"],"settings":{"color_scheme":"inverse","image":"shopify:\/\/shop_images\/DSC_378211_1.jpg","height":"adapt","content_layout":"no-overlap","identificateur":"class","padding_top":0,"padding_bottom":30,"desktop_image_width":"medium","layout":"text_first","desktop_content_position":"middle","desktop_content_alignment":"left","offdesk":false,"show_padding_content":false,"mobile_content_alignment":"left","mobile_padding":"small","offmob":false}},"image_with_text_NUx9kW":{"type":"image-with-text","blocks":{"heading_jgbiUq":{"type":"heading","settings":{"heading":"L'Histoire dérrière Messyka...","heading_tag":"h2","heading_size":"h0","offdesk-bloc":false,"offmob-bloc":false}},"text_yLbwPJ":{"type":"text","settings":{"text":"<p>Découvrir l'histoire de l'idée à la création de notre marque, un parcours d'entrepreneur qui part d'une idée marginale et la vision pragmatique de l'utilisation des cosmétiques chez les hommes.<\/p>","text_style":"body","offdesk-bloc":false,"offmob-bloc":false}},"button_FiW3eN":{"type":"button","settings":{"button_label":"Découvrir notre histoire","button_link":"shopify:\/\/products\/rassil","button_style_secondary":false,"offdesk-bloc":false,"offmob-bloc":false}}},"block_order":["heading_jgbiUq","text_yLbwPJ","button_FiW3eN"],"settings":{"color_scheme":"background-1","image":"shopify:\/\/shop_images\/DSC_3715.jpg","height":"adapt","content_layout":"no-overlap","identificateur":"class","padding_top":30,"padding_bottom":30,"desktop_image_width":"medium","layout":"text_first","desktop_content_position":"middle","desktop_content_alignment":"left","offdesk":false,"show_padding_content":false,"mobile_content_alignment":"left","mobile_padding":"small","offmob":false}},"rich_text_wj4Mif":{"type":"rich-text","blocks":{"heading_cqjBDW":{"type":"heading","settings":{"heading":"<p>Merci à Vous ❤️<\/p>","heading_tag":"h2","heading_size":"h0","offdesk-bloc":false,"offmob-bloc":false}}},"block_order":["heading_cqjBDW"],"settings":{"color_scheme":"background-1","content_alignment":"center","desktop_content_position":"center","full_width":true,"readmore":false,"formread":200,"identificateur":"class","padding_top":30,"padding_bottom":10,"offdesk":false,"offmob":false}},"multicolumn_pX93KF":{"type":"multicolumn","blocks":{"column_FLcAef":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/DSC_3751_1.jpg","custom_icon":"","image_width_custom":0,"title":"","text":"","link_label":"","link":"","offdesk-bloc":false,"offmob-bloc":false}},"column_RVEcQp":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/DSC_3885_1_b795aaea-6815-43f1-8333-ec1c08dd51b3.jpg","custom_icon":"","image_width_custom":0,"title":"","text":"","link_label":"","link":"","offdesk-bloc":false,"offmob-bloc":false}},"column_NV4hfR":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/DSC_3708_1.jpg","custom_icon":"","image_width_custom":0,"title":"","text":"","link_label":"","link":"","offdesk-bloc":false,"offmob-bloc":false}},"column_Lre4qR":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/DSC_3889.jpg","custom_icon":"","image_width_custom":0,"title":"","text":"","link_label":"","link":"","offdesk-bloc":false,"offmob-bloc":false}},"column_hgjjHG":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/DSC_37991_1.jpg","custom_icon":"","image_width_custom":0,"title":"","text":"","link_label":"","link":"","offdesk-bloc":false,"offmob-bloc":false}}},"block_order":["column_FLcAef","column_RVEcQp","column_NV4hfR","column_Lre4qR","column_hgjjHG"],"settings":{"color_scheme":"background-1","color_scheme_2":"background-1","title":"","heading_tag":"h2","heading_size":"h1","heading_alignment":"left","description":"","description_style":"body","image_width":"full","image_ratio":"square","column_alignment":"left","button_label":"","button_link":"","identificateur":"class","padding_top":0,"padding_bottom":20,"columns_desktop":3,"swipe_on_desktop":true,"show_carrousel_desktop":false,"show_arrow_desktop":true,"offdesk":false,"columns_mobile":"1","swipe_on_mobile":false,"show_carrousel_mobile":false,"show_arrow_mobile":true,"offmob":false}}},"order":["cd2e6554-6726-431b-be4b-a747ad2d2e52","collapsible_content_8wMHef","image_with_text_ChmJr8","custom_content_AkVEDT","3cf12153-d73d-46af-9101-d9f272552a3e","image_with_text_NUx9kW","rich_text_wj4Mif","multicolumn_pX93KF"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "cd2e6554-6726-431b-be4b-a747ad2d2e52": {
+      "type": "collection-navigation",
+      "blocks": {
+        "template--19587639640393__cd2e6554-6726-431b-be4b-a747ad2d2e52-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "rap",
+            "product": "rassil",
+            "links": "",
+            "content": "Le Rassil"
+          }
+        },
+        "template--19587639640393__cd2e6554-6726-431b-be4b-a747ad2d2e52-collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "product": "",
+            "links": "shopify://pages/utilisation",
+            "image": "shopify://shop_images/2_3e0afcc0-d49c-47a0-8ae3-524184b04ec3.png",
+            "content": "Utilisation"
+          }
+        },
+        "collection_tWTegc": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "product": "",
+            "links": "shopify://pages/la-mission",
+            "content": "La Mission"
+          }
+        },
+        "collection_HkAr6x": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "product": "",
+            "links": "",
+            "content": "FAQ"
+          }
+        }
+      },
+      "block_order": [
+        "template--19587639640393__cd2e6554-6726-431b-be4b-a747ad2d2e52-collection-1",
+        "template--19587639640393__cd2e6554-6726-431b-be4b-a747ad2d2e52-collection-2",
+        "collection_tWTegc",
+        "collection_HkAr6x"
+      ],
+      "custom_css": [
+        "@media screen and (max-width: 767px) {* {padding-right: 0 !important; }}",
+        ".story_circle {margin-bottom: 4px;}"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "background_style": "primary",
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "descriptions_margin": false,
+        "description_style": "body",
+        "style": "story",
+        "button_style_secondary": true,
+        "identificateur": "class",
+        "padding_top": 0,
+        "padding_bottom": 20,
+        "offdesk": false,
+        "offmob": false
+      }
+    },
+    "custom_content_AkVEDT": {
+      "type": "custom-content",
+      "blocks": {
+        "before_fwhtCM": {
+          "type": "before",
+          "settings": {
+            "after_image": "shopify://shop_images/7.png",
+            "before_image": "shopify://shop_images/8.png",
+            "taille": "custom-w-100",
+            "offdesk-bloc": false,
+            "taillemobile": "custom-mw-100",
+            "offmob-bloc": false
+          }
+        }
+      },
+      "block_order": [
+        "before_fwhtCM"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "alignment_justify": "center",
+        "alignment_align": "center",
+        "min_height": 0,
+        "full_width": false,
+        "identificateur": "class",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "offdesk": false,
+        "offmob": false
+      }
+    },
+    "collapsible_content_8wMHef": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_8tewY3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Encore + de Volume",
+            "icon": "lipstick",
+            "custom_icon": "",
+            "row_content": "<p>Notre Rassil est constitué de ... pour donner à votre barbe un volume jusqu'à 3x supérieur</p>",
+            "page": "",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        },
+        "collapsible_row_LLDMBe": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Les Ingrédients",
+            "icon": "plant",
+            "custom_icon": "",
+            "row_content": "<p>Nos produits sont naturelles et sans produits chimiques rajoutés. Confectionné à base de ... depuis le Maroc spécifiquement depuis Casablanca. <a href=\"/pages/la-mission\" title=\"Notre histoire\">Vous souhaitez en savoir sur la confection de nos Rassils ?</a></p>",
+            "page": "",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        },
+        "collapsible_row_LWQzVQ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Waterproof 72H",
+            "icon": "washing",
+            "custom_icon": "",
+            "row_content": "<p>Nos Rassils sont waterproofs jusq'à 72H d'utilisations. Donc même sous la douche ou à la piscine votre barbe restera aussi belle. </p>",
+            "page": "",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        },
+        "collapsible_row_LJMa8J": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Un Vrai Booster",
+            "icon": "star",
+            "custom_icon": "",
+            "row_content": "<p>Contrairement à un simple mascara, Rassil contient des huiles de Ricin et d'Argan ainsi que ... pour booster la pousse et l'épaisseur de votre barbe. Oui rien que ça</p>",
+            "page": "",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_8tewY3",
+        "collapsible_row_LLDMBe",
+        "collapsible_row_LWQzVQ",
+        "collapsible_row_LJMa8J"
+      ],
+      "custom_css": [
+        "h2 {font-size: 2.8rem; font-weight: 600;}"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "caption": "",
+        "heading": "C'est quoi un Rassil ?",
+        "heading_tag": "h2",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "description": "<p>Charnu, épaisse, brillante, volumineuse, élégante, viril, symbolique. Tant d'adjectifs pour décrire une vraie bebard qui sent la testotérone.</p>",
+        "descriptions_margin": false,
+        "description_style": "body",
+        "layout": "none",
+        "open_first_collapsible_row": true,
+        "image_ratio": "adapt",
+        "identificateur": "class",
+        "padding_top": 30,
+        "padding_bottom": 30,
+        "desktop_layout": "image_first",
+        "offdesk": false,
+        "offmob": false
+      }
+    },
+    "image_with_text_ChmJr8": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_7bRUci": {
+          "type": "heading",
+          "settings": {
+            "heading": "Stock limité",
+            "heading_tag": "h2",
+            "heading_size": "h0",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        },
+        "text_pLP8Bm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Le Rassil commence à écrire son histoire.<br/><br/>Nos stocks sont volontairement limités afin d’assurer une qualité exceptionnelle et recueillir les premiers avis clients.<br/><br/>Si tu veux faire partie des premiers à le découvrir, ne tarde pas — les prochaines séries seront rares</p>",
+            "text_style": "body",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        },
+        "button_LXrJM6": {
+          "type": "button",
+          "settings": {
+            "button_label": "ACHETER",
+            "button_link": "shopify://products/rassil",
+            "button_style_secondary": false,
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_7bRUci",
+        "text_pLP8Bm",
+        "button_LXrJM6"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "image": "shopify://shop_images/Brown_and_Cream_Simple_Rent_House_Banner.jpg",
+        "height": "adapt",
+        "content_layout": "no-overlap",
+        "identificateur": "class",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "offdesk": false,
+        "show_padding_content": false,
+        "mobile_content_alignment": "center",
+        "mobile_padding": "small",
+        "offmob": false
+      }
+    },
+    "3cf12153-d73d-46af-9101-d9f272552a3e": {
+      "type": "image-with-text",
+      "blocks": {
+        "3a9d0c10-b7af-435c-b903-e967d1858b43": {
+          "type": "heading",
+          "settings": {
+            "heading": "Devenir Revendeur",
+            "heading_tag": "h2",
+            "heading_size": "h1",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        },
+        "19aa63cd-5334-4660-9a25-ec6e4b75a0a3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Vous souhaitez vendre ou acheter en gros les produits Messyka ? Aucun problème rendez-vous juste en dessous</p>",
+            "text_style": "body",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        },
+        "810de1b4-7b41-4150-b1b7-4de55e4ffc30": {
+          "type": "button",
+          "settings": {
+            "button_label": "DEVENIR REVENDEUR",
+            "button_link": "shopify://pages/contact",
+            "button_style_secondary": false,
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        }
+      },
+      "block_order": [
+        "3a9d0c10-b7af-435c-b903-e967d1858b43",
+        "19aa63cd-5334-4660-9a25-ec6e4b75a0a3",
+        "810de1b4-7b41-4150-b1b7-4de55e4ffc30"
+      ],
+      "custom_css": [
+        ".button {background-color: whitesmoke;}",
+        "h2 {font-size: 2.6rem; font-weight: 600;}"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "image": "shopify://shop_images/03f13058-0c59-4234-a2f9-2689267811ce-min.jpg",
+        "height": "adapt",
+        "content_layout": "no-overlap",
+        "identificateur": "class",
+        "padding_top": 0,
+        "padding_bottom": 30,
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "offdesk": false,
+        "show_padding_content": false,
+        "mobile_content_alignment": "left",
+        "mobile_padding": "small",
+        "offmob": false
+      }
+    },
+    "image_with_text_NUx9kW": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_jgbiUq": {
+          "type": "heading",
+          "settings": {
+            "heading": "L'Histoire dérrière Messyka...",
+            "heading_tag": "h2",
+            "heading_size": "h0",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        },
+        "text_yLbwPJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Découvrir l'histoire de l'idée à la création de notre marque, un parcours d'entrepreneur qui part d'une idée marginale et la vision pragmatique de l'utilisation des cosmétiques chez les hommes.</p>",
+            "text_style": "body",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        },
+        "button_FiW3eN": {
+          "type": "button",
+          "settings": {
+            "button_label": "Découvrir notre histoire",
+            "button_link": "shopify://products/rassil",
+            "button_style_secondary": false,
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_jgbiUq",
+        "text_yLbwPJ",
+        "button_FiW3eN"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "image": "shopify://shop_images/DSC_3715.jpg",
+        "height": "adapt",
+        "content_layout": "no-overlap",
+        "identificateur": "class",
+        "padding_top": 30,
+        "padding_bottom": 30,
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "offdesk": false,
+        "show_padding_content": false,
+        "mobile_content_alignment": "left",
+        "mobile_padding": "small",
+        "offmob": false
+      }
+    },
+    "rich_text_wj4Mif": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_cqjBDW": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Merci à Vous ❤️</p>",
+            "heading_tag": "h2",
+            "heading_size": "h0",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_cqjBDW"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "content_alignment": "center",
+        "desktop_content_position": "center",
+        "full_width": true,
+        "readmore": false,
+        "formread": 200,
+        "identificateur": "class",
+        "padding_top": 30,
+        "padding_bottom": 10,
+        "offdesk": false,
+        "offmob": false
+      }
+    },
+    "multicolumn_pX93KF": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_FLcAef": {
+          "type": "column",
+          "settings": {
+            "custom_icon": "",
+            "image_width_custom": 0,
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        },
+        "column_RVEcQp": {
+          "type": "column",
+          "settings": {
+            "custom_icon": "",
+            "image_width_custom": 0,
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        },
+        "column_NV4hfR": {
+          "type": "column",
+          "settings": {
+            "custom_icon": "",
+            "image_width_custom": 0,
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        },
+        "column_Lre4qR": {
+          "type": "column",
+          "settings": {
+            "custom_icon": "",
+            "image_width_custom": 0,
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        },
+        "column_hgjjHG": {
+          "type": "column",
+          "settings": {
+            "custom_icon": "",
+            "image_width_custom": 0,
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        }
+      },
+      "block_order": [
+        "column_FLcAef",
+        "column_RVEcQp",
+        "column_NV4hfR",
+        "column_Lre4qR",
+        "column_hgjjHG"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "color_scheme_2": "background-1",
+        "title": "",
+        "heading_tag": "h2",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "description": "",
+        "description_style": "body",
+        "image_width": "full",
+        "image_ratio": "square",
+        "column_alignment": "left",
+        "button_label": "",
+        "button_link": "",
+        "identificateur": "class",
+        "padding_top": 0,
+        "padding_bottom": 20,
+        "columns_desktop": 3,
+        "swipe_on_desktop": true,
+        "show_carrousel_desktop": false,
+        "show_arrow_desktop": true,
+        "offdesk": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "show_carrousel_mobile": false,
+        "show_arrow_mobile": true,
+        "offmob": false
+      }
+    }
+  },
+  "order": [
+    "cd2e6554-6726-431b-be4b-a747ad2d2e52",
+    "custom_content_AkVEDT",
+    "collapsible_content_8wMHef",
+    "image_with_text_ChmJr8",
+    "3cf12153-d73d-46af-9101-d9f272552a3e",
+    "image_with_text_NUx9kW",
+    "rich_text_wj4Mif",
+    "multicolumn_pX93KF"
+  ]
+}

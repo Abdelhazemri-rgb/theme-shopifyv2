@@ -1,1 +1,616 @@
-{"sections":{"main":{"type":"main-product","blocks":{"84f9b1d8-f0cd-4f21-b701-ee7036467c03":{"type":"badge","settings":{"badge":"","b-pos":"top-right","identificateur":"","offdesk-bloc":false,"image-width-desktop":80,"offmob-bloc":false,"image-width-mobile":50}},"title":{"type":"title","settings":{"title-suite":"","heading_tag":"h1","heading_size":"h0","margin":"avec-bas","identificateur":"","offdesk-bloc":false,"offmob-bloc":false}},"b55b14aa-49ae-46ef-adcd-2a94bd3f2448":{"type":"rating-natif","disabled":true,"settings":{"stars-num":5,"avis-texte":"(132 avis)","avis-lien":"#ma-section-temoignage","starscolor":"#93cd9b","starsoff":"#eeeeee","margin":"none","identificateur":"","offdesk-bloc":false,"offmob-bloc":false}},"price":{"type":"price","settings":{"price_position":"second","show_tax":true,"show_badges":false,"price_weight":false,"price_color":"default","margin":"avec-bas","identificateur":"","offdesk-bloc":false,"offmob-bloc":false}},"cd6e7a5e-a8c4-4f01-9976-cc83c88482f2":{"type":"richtext","settings":{"text":"<p>🤍 Pour + de 50 jours d'utilisation<\/p><p>💧 Résiste à l'eau et la transpiration<\/p><p>🚚 Livraison à domicile ou point-relais<\/p><p><\/p>","margin":"avec-bas","identificateur":"","offdesk-bloc":false,"offmob-bloc":false}},"variant_picker":{"type":"variant_picker","settings":{"picker_type":"button","no-label":false,"margin":"avec-bas","identificateur":"","offdesk-bloc":false,"offmob-bloc":false}},"buy_buttons":{"type":"buy_buttons","settings":{"custom_icon":"","show_dynamic_checkout":false,"margin":"none","sticky":false,"sticky-prix":false,"sticky-titre":false,"identificateur":"","offdesk-bloc":false,"offmob-bloc":false}},"2af06399-3c54-47e7-8703-55a19833be27":{"type":"text","settings":{"show_background_text":false,"color_scheme_text":"accent-3","text":"🎁 LIVRAISON OFFERTE SEULEMENT 48H","text_style":"body","icon":"none","custom_icon":"","margin":"none","identificateur":"","offdesk-bloc":false,"offmob-bloc":false}},"babb6c55-c39e-48b0-a9ab-e952626e4b8f":{"type":"collapsible_tab","settings":{"open-default":false,"heading":"Comment l'utiliser ?","icon":"question_mark","custom_icon":"","content":"<p>Ouvrir le **<\/p>","page":"","margin":"avec-haut","identificateur":"","offdesk-bloc":false,"offmob-bloc":false}},"16c2c1b2-fc23-496b-804a-cca33e93342d":{"type":"collapsible_tab","settings":{"open-default":false,"heading":"Qualité professionnelle","icon":"lightning_bolt","custom_icon":"","content":"<p>Nos ** sont produits en France avec une qualité supérieur. Le contenant est produit dans nos usines au Maroc avec un savoir faire millénaire. D'abord adaptés pour les coiffeurs, la qualité sera identique qu'en salon professionnel pour un résultat garanti.<\/p>","page":"","margin":"none","identificateur":"","offdesk-bloc":false,"offmob-bloc":false}},"6cafa0ad-bcab-47b8-bb85-97b26922b801":{"type":"collapsible_tab","settings":{"open-default":false,"heading":"Je suis livré quand ?","icon":"truck","custom_icon":"","content":"<p>Les commandes sont traités sous 48 heures (sauf le week-end). Puis vos commandes sont expédiées les Lundi et Jeudi. Avec une livraison en chronopost, l'expédition est comprise entre 2 et 5 jours.<\/p>","page":"","margin":"none","identificateur":"","offdesk-bloc":false,"offmob-bloc":false}},"96026dee-53fc-421f-a64e-4214fcfa529d":{"type":"share","settings":{"share_label":"Partage à ton pote et sa demi-barbe  🤍","margin":"avec","identificateur":"","offdesk-bloc":false,"offmob-bloc":false}}},"block_order":["84f9b1d8-f0cd-4f21-b701-ee7036467c03","title","b55b14aa-49ae-46ef-adcd-2a94bd3f2448","price","cd6e7a5e-a8c4-4f01-9976-cc83c88482f2","variant_picker","buy_buttons","2af06399-3c54-47e7-8703-55a19833be27","babb6c55-c39e-48b0-a9ab-e952626e4b8f","16c2c1b2-fc23-496b-804a-cca33e93342d","6cafa0ad-bcab-47b8-bb85-97b26922b801","96026dee-53fc-421f-a64e-4214fcfa529d"],"custom_css":[".share-button__button {font-size: 1.5rem; font-family: \"Poppins\", sans-serif; background-color: #ffecec; text-align: center; padding: 7px; font-weight: 500; border-radius: 25px; font-size: 1.2rem;}",".product__text {background-color: #ffecec; text-align: center; padding-top: 2px; padding-bottom: 2px; font-weight: 600; border-radius: 25px; font-size: 1.2rem;}"],"settings":{"hide_variants":true,"enable_video_looping":true,"enable_zoom":true,"identificateur":"class","padding_top":0,"padding_bottom":0,"enable_sticky_info":true,"gallery_layout":"thumbnail_slider","media_size":"medium","offdesk":false,"enable_scroll":false,"mobile_thumbnails":"points","offmob":false}},"collection_navigation_HYVwMX":{"type":"collection-navigation","blocks":{"collection_W6zmdc":{"type":"collection","settings":{"collection":"","product":"rassil","links":"","image":"shopify:\/\/shop_images\/2.png","content":"Accueil"}},"collection_MDr73i":{"type":"collection","settings":{"collection":"","product":"","links":"","image":"shopify:\/\/shop_images\/8.png","content":"Utilisation"}},"collection_j84RgC":{"type":"collection","settings":{"collection":"","product":"","links":"","image":"shopify:\/\/shop_images\/DSC_3885_1_2592c8fa-49f0-48c8-9ba3-398c6ea35177.jpg","content":"La Mission"}},"collection_Pdc9Mq":{"type":"collection","settings":{"collection":"","product":"","links":"","image":"shopify:\/\/shop_images\/1.png","content":"FAQ"}}},"block_order":["collection_W6zmdc","collection_MDr73i","collection_j84RgC","collection_Pdc9Mq"],"settings":{"color_scheme":"background-1","background_style":"primary","title":"","heading_size":"h2","description":"","descriptions_margin":false,"description_style":"body","style":"story","button_style_secondary":true,"identificateur":"class","padding_top":12,"padding_bottom":30,"offdesk":false,"offmob":false}},"custom_content_ppTmTy":{"type":"custom-content","blocks":{"before_q7qp9Y":{"type":"before","settings":{"after_image":"shopify:\/\/shop_images\/6.png","before_image":"shopify:\/\/shop_images\/2.png","taille":"custom-w-100","offdesk-bloc":false,"taillemobile":"custom-mw-100","offmob-bloc":false}}},"block_order":["before_q7qp9Y"],"settings":{"color_scheme":"background-1","alignment_justify":"center","alignment_align":"center","min_height":0,"full_width":false,"identificateur":"class","padding_top":0,"padding_bottom":0,"offdesk":false,"offmob":false}},"custom_content_QQCdyF":{"type":"custom-content","blocks":{"column_accordion_DbLcda":{"type":"column_accordion","settings":{"color_scheme":"background-1","title":"Les Ingrédients","heading_tag":"h2","text":"<h5>Nos produits sont certifiés ISO227 soit permettant une utilisation totalement saine et sans danger. La texture a été réalisé pour permettre de tenir plus de 72H sur votre barbe avec un effet volumineux. Voici une liste non-exaustive des éléments contenus : <\/h5>","link_label":"","link":"","collapse":"Huile d'Argan","collapse_icon":"dairy","collapse_content":"<p>- Waterproof, à la pisicine sous la douche<br\/>- Huile d'algan, adoucir et épaisir le poil<br\/>- Huile de ricin, augmente la pousse <br\/>- MMMM, pour ne pas couler au soleil<\/p>","collapse1":"Huile de Ricin","collapse_icon1":"leaf","collapse_content1":"","collapse2":"Huile de Ricin","collapse_icon2":"plant","collapse_content2":"","heading_size":"h0","column_alignment":"left","taille":"custom-w-100","offdesk-bloc":false,"taillemobile":"custom-mw-100","offmob-bloc":false}}},"block_order":["column_accordion_DbLcda"],"settings":{"color_scheme":"background-1","alignment_justify":"center","alignment_align":"center","min_height":0,"full_width":false,"identificateur":"class","padding_top":20,"padding_bottom":0,"offdesk":false,"offmob":false}},"38b8d29b-4198-4072-93c0-19bd078008e5":{"type":"image-with-text","blocks":{"template--19587639804233__38b8d29b-4198-4072-93c0-19bd078008e5-heading-1":{"type":"heading","settings":{"heading":"Une vraie barbe de bonhomme","heading_tag":"h2","heading_size":"h0","offdesk-bloc":false,"offmob-bloc":false}},"template--19587639804233__38b8d29b-4198-4072-93c0-19bd078008e5-text-1":{"type":"text","settings":{"text":"<p>Le volume de votre barbre transpire la testotérone. Attention à ne pas trop en appliquer les femmes risquent de tomber enceinte de vous avec un simple coup d'oeil sur votre barbiche<\/p>","text_style":"body","offdesk-bloc":false,"offmob-bloc":false}},"template--19587639804233__38b8d29b-4198-4072-93c0-19bd078008e5-button-1":{"type":"button","settings":{"button_label":"AVOIR UNE VRAIE BARBE","button_link":"shopify:\/\/products\/rassil","button_style_secondary":false,"offdesk-bloc":false,"offmob-bloc":false}}},"block_order":["template--19587639804233__38b8d29b-4198-4072-93c0-19bd078008e5-heading-1","template--19587639804233__38b8d29b-4198-4072-93c0-19bd078008e5-text-1","template--19587639804233__38b8d29b-4198-4072-93c0-19bd078008e5-button-1"],"settings":{"color_scheme":"accent-2","image":"shopify:\/\/shop_images\/DSC_3837_1.jpg","height":"adapt","content_layout":"no-overlap","identificateur":"class","padding_top":30,"padding_bottom":0,"desktop_image_width":"medium","layout":"image_first","desktop_content_position":"middle","desktop_content_alignment":"left","offdesk":false,"show_padding_content":false,"mobile_content_alignment":"left","mobile_padding":"small","offmob":false}},"image_with_text_adUkP8":{"type":"image-with-text","blocks":{"heading_4xFnNf":{"type":"heading","settings":{"heading":"Vous méritez aussi du charisme","heading_tag":"h2","heading_size":"h0","offdesk-bloc":false,"offmob-bloc":false}},"text_dqedTa":{"type":"text","settings":{"text":"<p>Disponible pour tout types de mélanine,  du poivre et sel au poils noirs en passant par le roux. Premier changement offert <\/p>","text_style":"body","offdesk-bloc":false,"offmob-bloc":false}}},"block_order":["heading_4xFnNf","text_dqedTa"],"settings":{"color_scheme":"inverse","image":"shopify:\/\/shop_images\/DSC_3885_1.jpg","height":"adapt","content_layout":"no-overlap","identificateur":"class","padding_top":30,"padding_bottom":40,"desktop_image_width":"medium","layout":"text_first","desktop_content_position":"middle","desktop_content_alignment":"left","offdesk":false,"show_padding_content":false,"mobile_content_alignment":"left","mobile_padding":"small","offmob":false}},"image_with_text_Vd9rqN":{"type":"image-with-text","blocks":{"heading_7kitbB":{"type":"heading","settings":{"heading":"Qualité > Quantité","heading_tag":"h2","heading_size":"h0","offdesk-bloc":false,"offmob-bloc":false}},"text_wQJNbd":{"type":"text","settings":{"text":"<p>Nous tenons à rappeler que nous proposons avant tout des produits de qualités qui permettent rééllement d'avoir des résultats visibles et sur le long terme. Nos produits alimentent la pousse des poils. Cependant nous ne pouvons pas créer de nouvelles racines cutanées pour vous.<\/p>","text_style":"body","offdesk-bloc":false,"offmob-bloc":false}}},"block_order":["heading_7kitbB","text_wQJNbd"],"settings":{"color_scheme":"background-1","image":"shopify:\/\/shop_images\/DSC_37821_1.jpg","height":"adapt","content_layout":"no-overlap","identificateur":"class","padding_top":0,"padding_bottom":20,"desktop_image_width":"medium","layout":"text_first","desktop_content_position":"middle","desktop_content_alignment":"left","offdesk":false,"show_padding_content":false,"mobile_content_alignment":"left","mobile_padding":"small","offmob":false}},"product-recommendations":{"type":"product-recommendations","settings":{"color_scheme":"background-1","heading":"TROUVE TA PÉPITE 🥜","description":"","description_style":"body","heading_tag":"h2","heading_size":"h1","heading_alignment":"left","products_to_show":4,"image_ratio":"square","show_secondary_image":true,"show_vendor":false,"show_rating":true,"enable_btn_card_product":false,"type_btn_card_product":"enable_quick_add","button_style_secondary":true,"identificateur":"class","padding_top":20,"padding_bottom":30,"enable_desktop_slider":false,"show_carrousel_desktop":false,"show_arrow_desktop":true,"columns_desktop":4,"offdesk":false,"swipe_on_mobile":true,"show_carrousel_mobile":false,"show_arrow_mobile":true,"columns_mobile":"2","offmob":false}},"multicolumn_QNRK9U":{"type":"multicolumn","blocks":{"column_kVXhBU":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/10.png","custom_icon":"","image_width_custom":0,"title":"","text":"","link_label":"","link":"","offdesk-bloc":false,"offmob-bloc":false}},"column_BDqhb7":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/8.png","custom_icon":"","image_width_custom":0,"title":"","text":"","link_label":"","link":"","offdesk-bloc":false,"offmob-bloc":false}},"column_FpQid7":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/5_dce03edb-ce8a-48d4-b3df-adb5cc9ee52e.png","custom_icon":"","image_width_custom":0,"title":"","text":"","link_label":"","link":"","offdesk-bloc":false,"offmob-bloc":false}}},"block_order":["column_kVXhBU","column_BDqhb7","column_FpQid7"],"settings":{"color_scheme":"background-1","color_scheme_2":"background-1","title":"","heading_tag":"h2","heading_size":"h1","heading_alignment":"left","description":"","description_style":"body","image_width":"full","image_ratio":"adapt","column_alignment":"left","button_label":"","button_link":"","identificateur":"class","padding_top":0,"padding_bottom":30,"columns_desktop":3,"swipe_on_desktop":true,"show_carrousel_desktop":false,"show_arrow_desktop":true,"offdesk":false,"columns_mobile":"1","swipe_on_mobile":true,"show_carrousel_mobile":true,"show_arrow_mobile":true,"offmob":false}}},"order":["main","collection_navigation_HYVwMX","custom_content_ppTmTy","custom_content_QQCdyF","38b8d29b-4198-4072-93c0-19bd078008e5","image_with_text_adUkP8","image_with_text_Vd9rqN","product-recommendations","multicolumn_QNRK9U"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "84f9b1d8-f0cd-4f21-b701-ee7036467c03": {
+          "type": "badge",
+          "settings": {
+            "badge": "",
+            "b-pos": "top-right",
+            "identificateur": "",
+            "offdesk-bloc": false,
+            "image-width-desktop": 80,
+            "offmob-bloc": false,
+            "image-width-mobile": 50
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "title-suite": "",
+            "heading_tag": "h1",
+            "heading_size": "h0",
+            "margin": "avec-bas",
+            "identificateur": "",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        },
+        "b55b14aa-49ae-46ef-adcd-2a94bd3f2448": {
+          "type": "rating-natif",
+          "disabled": true,
+          "settings": {
+            "stars-num": 5,
+            "avis-texte": "(132 avis)",
+            "avis-lien": "#ma-section-temoignage",
+            "starscolor": "#93cd9b",
+            "starsoff": "#eeeeee",
+            "margin": "none",
+            "identificateur": "",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "price_position": "second",
+            "show_tax": true,
+            "show_badges": false,
+            "price_weight": false,
+            "price_color": "default",
+            "margin": "avec-bas",
+            "identificateur": "",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        },
+        "cd6e7a5e-a8c4-4f01-9976-cc83c88482f2": {
+          "type": "richtext",
+          "settings": {
+            "text": "<p>🤍 Pour + de 50 jours d'utilisation</p><p>💧 Résiste à l'eau et la transpiration</p><p>🚚 Livraison à domicile ou point-relais</p><p></p>",
+            "margin": "avec-bas",
+            "identificateur": "",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "no-label": false,
+            "margin": "avec-bas",
+            "identificateur": "",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "custom_icon": "",
+            "show_dynamic_checkout": false,
+            "margin": "none",
+            "sticky": false,
+            "sticky-prix": false,
+            "sticky-titre": false,
+            "identificateur": "",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        },
+        "2af06399-3c54-47e7-8703-55a19833be27": {
+          "type": "text",
+          "settings": {
+            "show_background_text": false,
+            "color_scheme_text": "accent-3",
+            "text": "🎁 LIVRAISON OFFERTE SEULEMENT 48H",
+            "text_style": "body",
+            "icon": "none",
+            "custom_icon": "",
+            "margin": "none",
+            "identificateur": "",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        },
+        "babb6c55-c39e-48b0-a9ab-e952626e4b8f": {
+          "type": "collapsible_tab",
+          "settings": {
+            "open-default": false,
+            "heading": "Comment l'utiliser ?",
+            "icon": "question_mark",
+            "custom_icon": "",
+            "content": "<p>Pour de meilleurs résultats avec <strong>Messyka</strong>, appliquez le mascarat sur une barbe propre et sèche, en comblant les zones clairsemées par de légers mouvements précis. Ajustez l’intensité selon l’effet souhaité, laissez sécher quelques minutes, et profitez d’une barbe dense, naturelle et impeccable toute la journée.</p>",
+            "page": "",
+            "margin": "avec-haut",
+            "identificateur": "",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        },
+        "16c2c1b2-fc23-496b-804a-cca33e93342d": {
+          "type": "collapsible_tab",
+          "settings": {
+            "open-default": false,
+            "heading": "Qualité professionnelle",
+            "icon": "lightning_bolt",
+            "custom_icon": "",
+            "content": "<p>Nos ** sont produits au Maroc avec une qualité supérieur. Le contenant est produit dans nos usines au Maroc avec un savoir faire millénaire. D'abord adaptés pour les coiffeurs, la qualité sera identique qu'en salon professionnel pour un résultat garanti.</p>",
+            "page": "",
+            "margin": "none",
+            "identificateur": "",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        },
+        "6cafa0ad-bcab-47b8-bb85-97b26922b801": {
+          "type": "collapsible_tab",
+          "settings": {
+            "open-default": false,
+            "heading": "Je suis livré quand ?",
+            "icon": "truck",
+            "custom_icon": "",
+            "content": "<p>Les commandes sont traités sous 48 heures (sauf le week-end). Puis vos commandes sont expédiées les Lundi et Jeudi. Avec une livraison en cash en delivery, l'expédition est comprise entre 2 et 5 jours.</p>",
+            "page": "",
+            "margin": "none",
+            "identificateur": "",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        },
+        "96026dee-53fc-421f-a64e-4214fcfa529d": {
+          "type": "share",
+          "settings": {
+            "share_label": "Partage à ton pote et sa demi-barbe  🤍",
+            "margin": "avec",
+            "identificateur": "",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        }
+      },
+      "block_order": [
+        "84f9b1d8-f0cd-4f21-b701-ee7036467c03",
+        "title",
+        "b55b14aa-49ae-46ef-adcd-2a94bd3f2448",
+        "price",
+        "cd6e7a5e-a8c4-4f01-9976-cc83c88482f2",
+        "variant_picker",
+        "buy_buttons",
+        "2af06399-3c54-47e7-8703-55a19833be27",
+        "babb6c55-c39e-48b0-a9ab-e952626e4b8f",
+        "16c2c1b2-fc23-496b-804a-cca33e93342d",
+        "6cafa0ad-bcab-47b8-bb85-97b26922b801",
+        "96026dee-53fc-421f-a64e-4214fcfa529d"
+      ],
+      "custom_css": [
+        ".share-button__button {font-size: 1.5rem; font-family: \"Poppins\", sans-serif; background-color: #ffecec; text-align: center; padding: 7px; font-weight: 500; border-radius: 25px; font-size: 1.2rem;}",
+        ".product__text {background-color: #ffecec; text-align: center; padding-top: 2px; padding-bottom: 2px; font-weight: 600; border-radius: 25px; font-size: 1.2rem;}"
+      ],
+      "settings": {
+        "hide_variants": true,
+        "enable_video_looping": true,
+        "enable_zoom": true,
+        "identificateur": "class",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "enable_sticky_info": true,
+        "gallery_layout": "thumbnail_slider",
+        "media_size": "medium",
+        "offdesk": false,
+        "enable_scroll": false,
+        "mobile_thumbnails": "points",
+        "offmob": false
+      }
+    },
+    "collection_navigation_HYVwMX": {
+      "type": "collection-navigation",
+      "blocks": {
+        "collection_W6zmdc": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "product": "rassil",
+            "links": "",
+            "content": "Accueil"
+          }
+        },
+        "collection_MDr73i": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "product": "",
+            "links": "",
+            "image": "shopify://shop_images/8.png",
+            "content": "Utilisation"
+          }
+        },
+        "collection_j84RgC": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "product": "",
+            "links": "",
+            "content": "La Mission"
+          }
+        },
+        "collection_Pdc9Mq": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "product": "",
+            "links": "",
+            "content": "FAQ"
+          }
+        }
+      },
+      "block_order": [
+        "collection_W6zmdc",
+        "collection_MDr73i",
+        "collection_j84RgC",
+        "collection_Pdc9Mq"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "background_style": "primary",
+        "title": "",
+        "heading_size": "h2",
+        "description": "",
+        "descriptions_margin": false,
+        "description_style": "body",
+        "style": "story",
+        "button_style_secondary": true,
+        "identificateur": "class",
+        "padding_top": 12,
+        "padding_bottom": 30,
+        "offdesk": false,
+        "offmob": false
+      }
+    },
+    "custom_content_ppTmTy": {
+      "type": "custom-content",
+      "blocks": {
+        "before_q7qp9Y": {
+          "type": "before",
+          "settings": {
+            "taille": "custom-w-100",
+            "offdesk-bloc": false,
+            "taillemobile": "custom-mw-100",
+            "offmob-bloc": false
+          }
+        }
+      },
+      "block_order": [
+        "before_q7qp9Y"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "alignment_justify": "center",
+        "alignment_align": "center",
+        "min_height": 0,
+        "full_width": false,
+        "identificateur": "class",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "offdesk": false,
+        "offmob": false
+      }
+    },
+    "custom_content_QQCdyF": {
+      "type": "custom-content",
+      "blocks": {
+        "column_accordion_DbLcda": {
+          "type": "column_accordion",
+          "settings": {
+            "color_scheme": "background-1",
+            "title": "Les Ingrédients",
+            "heading_tag": "h2",
+            "text": "<h5>Nos produits sont certifiés ISO227 soit permettant une utilisation totalement saine et sans danger. La texture a été réalisé pour permettre de tenir plus de 72H sur votre barbe avec un effet volumineux. Voici une liste non-exaustive des éléments contenus : </h5>",
+            "link_label": "",
+            "link": "",
+            "collapse": "Huile d'Argan",
+            "collapse_icon": "dairy",
+            "collapse_content": "<p>- Waterproof, à la pisicine sous la douche<br/>- Huile d'algan, adoucir et épaisir le poil<br/>- Huile de ricin, augmente la pousse <br/>- MMMM, pour ne pas couler au soleil</p>",
+            "collapse1": "Huile de Ricin",
+            "collapse_icon1": "leaf",
+            "collapse_content1": "",
+            "collapse2": "Huile de Ricin",
+            "collapse_icon2": "plant",
+            "collapse_content2": "",
+            "heading_size": "h0",
+            "column_alignment": "left",
+            "taille": "custom-w-100",
+            "offdesk-bloc": false,
+            "taillemobile": "custom-mw-100",
+            "offmob-bloc": false
+          }
+        }
+      },
+      "block_order": [
+        "column_accordion_DbLcda"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "alignment_justify": "center",
+        "alignment_align": "center",
+        "min_height": 0,
+        "full_width": false,
+        "identificateur": "class",
+        "padding_top": 20,
+        "padding_bottom": 0,
+        "offdesk": false,
+        "offmob": false
+      }
+    },
+    "38b8d29b-4198-4072-93c0-19bd078008e5": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--19587639804233__38b8d29b-4198-4072-93c0-19bd078008e5-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Une vraie barbe de bonhomme",
+            "heading_tag": "h2",
+            "heading_size": "h0",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        },
+        "template--19587639804233__38b8d29b-4198-4072-93c0-19bd078008e5-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Le volume de votre barbre transpire la testotérone. Attention à ne pas trop en appliquer les femmes risquent de tomber enceinte de vous avec un simple coup d'oeil sur votre barbiche</p>",
+            "text_style": "body",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        },
+        "template--19587639804233__38b8d29b-4198-4072-93c0-19bd078008e5-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "AVOIR UNE VRAIE BARBE",
+            "button_link": "shopify://products/rassil",
+            "button_style_secondary": false,
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19587639804233__38b8d29b-4198-4072-93c0-19bd078008e5-heading-1",
+        "template--19587639804233__38b8d29b-4198-4072-93c0-19bd078008e5-text-1",
+        "template--19587639804233__38b8d29b-4198-4072-93c0-19bd078008e5-button-1"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "height": "adapt",
+        "content_layout": "no-overlap",
+        "identificateur": "class",
+        "padding_top": 30,
+        "padding_bottom": 0,
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "offdesk": false,
+        "show_padding_content": false,
+        "mobile_content_alignment": "left",
+        "mobile_padding": "small",
+        "offmob": false
+      }
+    },
+    "image_with_text_adUkP8": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_4xFnNf": {
+          "type": "heading",
+          "settings": {
+            "heading": "Vous méritez aussi du charisme",
+            "heading_tag": "h2",
+            "heading_size": "h0",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        },
+        "text_dqedTa": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Disponible pour tout types de mélanine,  du poivre et sel au poils noirs en passant par le roux. Premier changement offert </p>",
+            "text_style": "body",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_4xFnNf",
+        "text_dqedTa"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "height": "adapt",
+        "content_layout": "no-overlap",
+        "identificateur": "class",
+        "padding_top": 30,
+        "padding_bottom": 40,
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "offdesk": false,
+        "show_padding_content": false,
+        "mobile_content_alignment": "left",
+        "mobile_padding": "small",
+        "offmob": false
+      }
+    },
+    "image_with_text_Vd9rqN": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_7kitbB": {
+          "type": "heading",
+          "settings": {
+            "heading": "Qualité > Quantité",
+            "heading_tag": "h2",
+            "heading_size": "h0",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        },
+        "text_wQJNbd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nous tenons à rappeler que nous proposons avant tout des produits de qualités qui permettent rééllement d'avoir des résultats visibles et sur le long terme. Nos produits alimentent la pousse des poils. Cependant nous ne pouvons pas créer de nouvelles racines cutanées pour vous.</p>",
+            "text_style": "body",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_7kitbB",
+        "text_wQJNbd"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "height": "adapt",
+        "content_layout": "no-overlap",
+        "identificateur": "class",
+        "padding_top": 0,
+        "padding_bottom": 20,
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "offdesk": false,
+        "show_padding_content": false,
+        "mobile_content_alignment": "left",
+        "mobile_padding": "small",
+        "offmob": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "color_scheme": "background-1",
+        "heading": "TROUVE TA PÉPITE 🥜",
+        "description": "",
+        "description_style": "body",
+        "heading_tag": "h2",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "products_to_show": 4,
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_btn_card_product": false,
+        "type_btn_card_product": "enable_quick_add",
+        "button_style_secondary": true,
+        "identificateur": "class",
+        "padding_top": 20,
+        "padding_bottom": 30,
+        "enable_desktop_slider": false,
+        "show_carrousel_desktop": false,
+        "show_arrow_desktop": true,
+        "columns_desktop": 4,
+        "offdesk": false,
+        "swipe_on_mobile": true,
+        "show_carrousel_mobile": false,
+        "show_arrow_mobile": true,
+        "columns_mobile": "2",
+        "offmob": false
+      }
+    },
+    "multicolumn_QNRK9U": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_kVXhBU": {
+          "type": "column",
+          "settings": {
+            "custom_icon": "",
+            "image_width_custom": 0,
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        },
+        "column_BDqhb7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/8.png",
+            "custom_icon": "",
+            "image_width_custom": 0,
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        },
+        "column_FpQid7": {
+          "type": "column",
+          "settings": {
+            "custom_icon": "",
+            "image_width_custom": 0,
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "offdesk-bloc": false,
+            "offmob-bloc": false
+          }
+        }
+      },
+      "block_order": [
+        "column_kVXhBU",
+        "column_BDqhb7",
+        "column_FpQid7"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "color_scheme_2": "background-1",
+        "title": "",
+        "heading_tag": "h2",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "description": "",
+        "description_style": "body",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "button_label": "",
+        "button_link": "",
+        "identificateur": "class",
+        "padding_top": 0,
+        "padding_bottom": 30,
+        "columns_desktop": 3,
+        "swipe_on_desktop": true,
+        "show_carrousel_desktop": false,
+        "show_arrow_desktop": true,
+        "offdesk": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "show_carrousel_mobile": true,
+        "show_arrow_mobile": true,
+        "offmob": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "collection_navigation_HYVwMX",
+    "custom_content_ppTmTy",
+    "custom_content_QQCdyF",
+    "38b8d29b-4198-4072-93c0-19bd078008e5",
+    "image_with_text_adUkP8",
+    "image_with_text_Vd9rqN",
+    "product-recommendations",
+    "multicolumn_QNRK9U"
+  ]
+}
