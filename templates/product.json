@@ -213,8 +213,9 @@
           "settings": {
             "collection": "",
             "product": "rassil",
-            "links": "",
-            "content": "Accueil"
+            "links": "shopify://products/le-rassil-remplisseur-de-trous-densificateur-de-barbe-🌿-huile-de-ricin-vitamine-c-🍊",
+            "image": "shopify://shop_images/C1E92302-BB66-4FE8-9D04-230CCE977674.png",
+            "content": "Le Rassil"
           }
         },
         "collection_MDr73i": {
@@ -222,9 +223,9 @@
           "settings": {
             "collection": "",
             "product": "",
-            "links": "",
-            "image": "shopify://shop_images/8.png",
-            "content": "Utilisation"
+            "links": "shopify://products/minoxidil-biotine-keratine-stop-chute-booster-de-pousse-🌿💪",
+            "image": "shopify://shop_images/ChatGPTImage22nov.2025_11_29_41.png",
+            "content": "Minoxidil"
           }
         },
         "collection_j84RgC": {
@@ -232,7 +233,8 @@
           "settings": {
             "collection": "",
             "product": "",
-            "links": "",
+            "links": "shopify://pages/🌍-notre-mission",
+            "image": "shopify://shop_images/Brown_and_Cream_Simple_Rent_House_Banner.jpg",
             "content": "La Mission"
           }
         },
@@ -241,7 +243,8 @@
           "settings": {
             "collection": "",
             "product": "",
-            "links": "",
+            "links": "shopify://pages/faq",
+            "image": "shopify://shop_images/how-often-should-you-use-beard-shampoo_480x480_ec44c639-4992-4659-953d-92cfe2416adc.jpg",
             "content": "FAQ"
           }
         }
@@ -265,35 +268,6 @@
         "identificateur": "class",
         "padding_top": 12,
         "padding_bottom": 30,
-        "offdesk": false,
-        "offmob": false
-      }
-    },
-    "custom_content_ppTmTy": {
-      "type": "custom-content",
-      "blocks": {
-        "before_q7qp9Y": {
-          "type": "before",
-          "settings": {
-            "taille": "custom-w-100",
-            "offdesk-bloc": false,
-            "taillemobile": "custom-mw-100",
-            "offmob-bloc": false
-          }
-        }
-      },
-      "block_order": [
-        "before_q7qp9Y"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "alignment_justify": "center",
-        "alignment_align": "center",
-        "min_height": 0,
-        "full_width": false,
-        "identificateur": "class",
-        "padding_top": 0,
-        "padding_bottom": 0,
         "offdesk": false,
         "offmob": false
       }
@@ -384,6 +358,7 @@
       ],
       "settings": {
         "color_scheme": "accent-2",
+        "image": "shopify://shop_images/nano-banana-2025-10-25T10-56-51.png",
         "height": "adapt",
         "content_layout": "no-overlap",
         "identificateur": "class",
@@ -429,6 +404,7 @@
       ],
       "settings": {
         "color_scheme": "inverse",
+        "image": "shopify://shop_images/DSC_3715.jpg",
         "height": "adapt",
         "content_layout": "no-overlap",
         "identificateur": "class",
@@ -445,53 +421,9 @@
         "offmob": false
       }
     },
-    "image_with_text_Vd9rqN": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_7kitbB": {
-          "type": "heading",
-          "settings": {
-            "heading": "Qualité > Quantité",
-            "heading_tag": "h2",
-            "heading_size": "h0",
-            "offdesk-bloc": false,
-            "offmob-bloc": false
-          }
-        },
-        "text_wQJNbd": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Nous tenons à rappeler que nous proposons avant tout des produits de qualités qui permettent rééllement d'avoir des résultats visibles et sur le long terme. Nos produits alimentent la pousse des poils. Cependant nous ne pouvons pas créer de nouvelles racines cutanées pour vous.</p>",
-            "text_style": "body",
-            "offdesk-bloc": false,
-            "offmob-bloc": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_7kitbB",
-        "text_wQJNbd"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "height": "adapt",
-        "content_layout": "no-overlap",
-        "identificateur": "class",
-        "padding_top": 0,
-        "padding_bottom": 20,
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "offdesk": false,
-        "show_padding_content": false,
-        "mobile_content_alignment": "left",
-        "mobile_padding": "small",
-        "offmob": false
-      }
-    },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "color_scheme": "background-1",
         "heading": "TROUVE TA PÉPITE 🥜",
@@ -538,39 +470,10 @@
             "offdesk-bloc": false,
             "offmob-bloc": false
           }
-        },
-        "column_BDqhb7": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/8.png",
-            "custom_icon": "",
-            "image_width_custom": 0,
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "",
-            "offdesk-bloc": false,
-            "offmob-bloc": false
-          }
-        },
-        "column_FpQid7": {
-          "type": "column",
-          "settings": {
-            "custom_icon": "",
-            "image_width_custom": 0,
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "",
-            "offdesk-bloc": false,
-            "offmob-bloc": false
-          }
         }
       },
       "block_order": [
-        "column_kVXhBU",
-        "column_BDqhb7",
-        "column_FpQid7"
+        "column_kVXhBU"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -605,11 +508,9 @@
   "order": [
     "main",
     "collection_navigation_HYVwMX",
-    "custom_content_ppTmTy",
     "custom_content_QQCdyF",
     "38b8d29b-4198-4072-93c0-19bd078008e5",
     "image_with_text_adUkP8",
-    "image_with_text_Vd9rqN",
     "product-recommendations",
     "multicolumn_QNRK9U"
   ]
