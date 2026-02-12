@@ -92,9 +92,9 @@
             "custom_icon": "",
             "show_dynamic_checkout": false,
             "margin": "none",
-            "sticky": false,
-            "sticky-prix": false,
-            "sticky-titre": false,
+            "sticky": true,
+            "sticky-prix": true,
+            "sticky-titre": true,
             "identificateur": "",
             "offdesk-bloc": false,
             "offmob-bloc": false
